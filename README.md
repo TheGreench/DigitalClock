@@ -3,4 +3,4 @@
 This is a digital clock made with Vue.js
 
 ## Preview
-![Preview Image](https://i.imgur.com/9kZ7Pe3.png)
+![Preview Image](https://i.imgur.com/rwqcqpT.png)
